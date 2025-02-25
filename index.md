@@ -1,6 +1,8 @@
 # ¡Hola, bienvenido a mi portfolio! 👋  
 <br>
 
+Aquí puedes ver todos mis proyectos [Github](https://github.com/Hectorcidps/Portfolio_DA)
+
 ## Perfil profesional 
 Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y comprensión de los procesos de negocio. Manejo herramientas como Excel, Python, SQL y Power BI, con enfoque en la manipulación, limpieza y visualización de datos, además de la creación de informes con métricas relevantes. Me destaco por mi capacidad de aprendizaje rápido y por colaborar eficazmente en equipos. Estoy motivado por aplicar mis habilidades, contribuyendo al análisis y presentación de datos para respaldar decisiones estratégicas.
 <br>
@@ -170,6 +172,6 @@ El análisis permitió identificar a los operadores con menor desempeño y estab
 <br>
 <br>
 
-## Si quieres conocer más sobre mi trabajo en análisis de datos te invito a visitar mi portafolio completo en [GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master)
+### Si quieres conocer más sobre mi trabajo en análisis de datos te invito a visitar mi portafolio completo en [GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master)
 
 
