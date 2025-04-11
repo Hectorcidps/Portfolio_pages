@@ -55,7 +55,7 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 </h4>
 <br>
 
-## Ingresos totales Contoso Store [Enlace al dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGVlMDkzZGQtZDUxNy00NWJhLWEyNGMtNWJiZjFlMzQ3YzBjIiwidCI6ImQyNmU0MjM2LTI2MzItNDBiZi1iMzdmLTBiMGZkYWQ5YjI1MSJ9)
+## 💲 Ingresos totales Contoso Store [(Enlace al dashboard)](https://app.powerbi.com/view?r=eyJrIjoiOGVlMDkzZGQtZDUxNy00NWJhLWEyNGMtNWJiZjFlMzQ3YzBjIiwidCI6ImQyNmU0MjM2LTI2MzItNDBiZi1iMzdmLTBiMGZkYWQ5YjI1MSJ9)
 
 <h3 style="text-align: justify;"> 
 1. Este dashboard en Power BI permite visualizar y comparar los ingresos de la tienda "Contoso" que vende productos tecnológicos (celulares, computadoras, cámaras, audio, entre otros) en diferentes continentes. Se presenta un análisis de ingresos anuales de 2007 a 2009, destacando tendencias y variaciones. Además, incluye dos secciones adicionales:
@@ -72,7 +72,7 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 <br> 
 
 <h3 style="text-align: justify;"> 
-2. 💡 Para la limpieza y transformación utilicé Power Query, para cálculos dinámicos y métricas clave utilicé medidas DAX, y el uso de Tooltips personalizados para mejorar la experiencia interactiva. Finalmente en el modelado de datos transformé un esquema de copo de nieve a un modelo de estrella con la finalidad de mejorar la eficiencia en la carga y el procesamiento de datos.
+2. 💡 Para la limpieza y transformación utilicé Power Query, para cálculos dinámicos y métricas clave utilicé medidas DAX y Tooltips personalizados para mejorar la experiencia interactiva. Finalmente en el modelado de datos transformé un esquema de copo de nieve a un modelo de estrella con la finalidad de mejorar la eficiencia en la carga y el procesamiento de datos.
 </h3>
 <br> 
 
@@ -82,9 +82,9 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 
 <img src="assets/ingresos_totales/Estrella.png" alt="modelo_star">  
 
-## Resultados: 
+## 🚀📈 Resultados: 
 
-### 📊 Comparativa de Ingresos por Año, Categoría y Continente
+### 📊 Comparativa de ingresos por año, categoría y continente
 
 📆 2007
 * 💰 Ingresos totales: $2.92B
@@ -142,10 +142,8 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 <img src="assets/ingresos_totales/meses.png" alt="ingresos_meses">  
 
 <br>
-<br>
-<br>
 
-##  Optimización de la Retención en Gimnasio Model Fitness [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness)
+##  💪 Optimización de la Retención en Gimnasio Model Fitness [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness)
 
 <h3 style="text-align: justify;"> 
 1. Se analizó el comportamiento de los clientes de Model Fitness para diseñar estrategias que reduzcan la pérdida de usuarios. 
@@ -162,6 +160,8 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 * 🚨 Clientes en riesgo (Clusters 0 y 2): Cancelaciones moderadas (27.4% y 30.2%).
 * ⚠️ Clientes críticos (Cluster 4): Alta tasa de cancelación (50.3%).
 
+<br>
+
 <img src="assets/gimnasio/kmeans_1.png" alt="Regresion y Arbol">
 
 <img src="assets/gimnasio/kmeans_2.png" alt="Regresion y Arbol">
@@ -177,13 +177,12 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 </p>
 <br>
 
-## Telecomunicaciones: Identificar operadores ineficaces [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%20final/Proyecto%20Telecomunicaciones)
+## 📱 Telecomunicaciones: Identificar operadores ineficaces [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%20final/Proyecto%20Telecomunicaciones)
 
 ### 1. 🔍 Objetivo
 <p style="text-align: justify;">
 CallMeMaybe busca identificar a los operadores menos eficaces mediante el análisis de llamadas entrantes y salientes, tiempos de espera y llamadas perdidas. Se definieron operadores ineficaces como aquellos con altos tiempos de espera, muchas llamadas entrantes perdidas y pocas llamadas salientes (cuando aplicaba).
 </p>
-<br>
 
 ### Se implementaron las siguientes acciones:
 
@@ -236,7 +235,6 @@ CallMeMaybe busca identificar a los operadores menos eficaces mediante el análi
 <p style="text-align: justify;">
 El análisis permitió identificar a los operadores con menor desempeño y establecer criterios objetivos para evaluar la eficiencia operativa. Se recomienda implementar estrategias específicas para reducir tiempos de espera y mejorar la gestión de llamadas entrantes y salientes.
 </p>
-<br>
 
 ### Si quieres conocer más sobre mi trabajo en análisis de datos te invito a visitar mi portafolio completo en [GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master)
 
