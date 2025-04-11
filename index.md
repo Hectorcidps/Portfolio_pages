@@ -1,7 +1,7 @@
 # ¡Hola, bienvenido a mi portfolio! 👋  
 <br>
 
-### Aquí puedes ver todos mis proyectos [Github](https://github.com/Hectorcidps/Portfolio_DA)
+### Aquí puedes ver todos mis proyectos en [Github](https://github.com/Hectorcidps/Portfolio_DA)
 
 ## Perfil profesional 
 Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y comprensión de los procesos de negocio. Manejo herramientas como Excel, Python, SQL y Power BI, con enfoque en la manipulación, limpieza y visualización de datos, además de la creación de informes con métricas relevantes. Me destaco por mi capacidad de aprendizaje rápido y por colaborar eficazmente en equipos. Estoy motivado por aplicar mis habilidades, contribuyendo al análisis y presentación de datos para respaldar decisiones estratégicas.
@@ -51,6 +51,78 @@ El proyecto se desarrolló en tres fases:
 #### 💡 Se recomienda redistribuir el presupuesto hacia canales más rentables y reducir la inversión en aquellos con pérdidas.
 
 #### Los resultados muestran que, a pesar del alto tráfico y conversión en algunos canales, la empresa sigue enfrentando pérdidas debido a una asignación ineficiente del presupuesto de marketing.
+<br>
+<br>
+<br>
+
+## Ingresos totales Contoso Store [Enlace al dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGVlMDkzZGQtZDUxNy00NWJhLWEyNGMtNWJiZjFlMzQ3YzBjIiwidCI6ImQyNmU0MjM2LTI2MzItNDBiZi1iMzdmLTBiMGZkYWQ5YjI1MSJ9)
+
+### 1. Este dashboard en Power BI permite visualizar y comparar los ingresos de la tienda "Contoso" que vende productos tecnológicos (celulares, computadoras, cámaras, audio, entre otros) en diferentes continentes. Se presenta un análisis de ingresos anuales de 2007 a 2009, destacando tendencias y variaciones. Además, incluye dos secciones adicionales:
+
+* Ingresos mensuales por tienda, para evaluar el rendimiento individual de cada sucursal.
+
+* Comparación de ingresos mensuales entre años, que facilita la identificación de patrones estacionales y crecimiento en el tiempo.
+
+<img src="" alt="" witdh="400" height="180" > 
+
+### 2. 💡 Para la limpieza y transformación utilicé Power Query, para cálculos dinámicos y métricas clave utilicé medidas DAX, y el uso de Tooltips personalizados para mejorar la experiencia interactiva. Finalmente en el modelado de datos transformé un esquema de copo de nieve a un modelo de estrella con la finalidad de mejorar la eficiencia en la carga y el procesamiento de datos.
+
+<img src="" alt="" witdh="400" height="180" > 
+<img src="" alt="" witdh="400" height="180" > 
+
+## Resultados: 
+
+### 📊 Comparativa de Ingresos por Año, Categoría y Continente
+
+📆 2007
+* 💰 Ingresos totales: $2.92B
+* 📈 Picos de ingresos: Abril - Julio y Octubre
+
+🏆 Top 3 categorías más vendidas:
+- 1️⃣ Camcorders – $525M
+- 2️⃣ Projectors and Screens – $454M
+- 3️⃣ Digital SLR Cameras – $337M
+
+* 🌍 Top 3 países con mayores ingresos:
+* 🇺🇸 EE.UU. – $1.8B
+* 🇨🇳 China y 🇩🇪 Alemania – Menos de $283M
+
+📆 2008
+* 📉 Caída en ingresos, aunque algunas categorías mantuvieron liderazgo.
+* 📌 Camcorders y Projectors and Screens siguen en el Top 3, pero con ventas menores.
+* 💻 Laptops aumentó ingresos en comparación con 2007.
+
+📆 2009
+- 💻 Laptops se convirtió en la categoría más vendida, superando a las anteriores líderes.
+
+<img src="" alt="" witdh="400" height="180" > 
+
+### 🏪 Top 3 Tiendas con Mayores Ingresos por Año
+
+📆 2007
+* 1️⃣ Contoso Catalog Store – $252.6M
+* 2️⃣ Contoso North America Online Store – $176.8M
+* 3️⃣ Contoso Europe Online Store – $155.1M
+
+📆 2008
+- 1️⃣ Contoso Catalog Store – $197.8M
+- 2️⃣ Contoso North America Online Store – $194.7M
+- 3️⃣ Contoso Asia Online Store – $172.1M
+
+📆 2009
+* 1️⃣ Contoso North America Online Store – $202M
+* 2️⃣ Contoso Catalog Store – $197M
+* 3️⃣ Contoso Asia Online Store – $195M
+
+<img src="" alt="" witdh="400" height="180" > 
+
+### 📆 Análisis de Ingresos Mensuales
+- 🔹 2007: $2.92B, con los meses más rentables en abril, mayo, junio, julio y octubre.
+- 🔹 2008: Caída a $2.44B (-$478M respecto a 2007). Las mayores pérdidas ocurrieron en mayo, junio y octubre.
+- 🔹 2009: Nueva caída a $2.37B (-$74M respecto a 2008). Sin embargo, hubo repunte en mayo, junio y octubre.
+
+<img src="" alt="" witdh="400" height="180" > 
+
 <br>
 <br>
 <br>
