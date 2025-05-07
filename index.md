@@ -2,6 +2,7 @@
 <br>
 
 ### Aquí puedes ver todos mis proyectos en [Github](https://github.com/Hectorcidps/Portfolio_DA)
+### Aquí puedes ver todos mis proyectos de [Power BI](https://sites.google.com/view/portfolio-hector-cid/home)
 
 <br>
 <h2> Perfil profesional </h2>
@@ -55,7 +56,7 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 </h4>
 <br>
 
-## 💲 Ingresos totales Contoso Store [(Enlace al dashboard)](https://app.powerbi.com/view?r=eyJrIjoiOGVlMDkzZGQtZDUxNy00NWJhLWEyNGMtNWJiZjFlMzQ3YzBjIiwidCI6ImQyNmU0MjM2LTI2MzItNDBiZi1iMzdmLTBiMGZkYWQ5YjI1MSJ9)
+## 💲 Ingresos totales Contoso Store [(Enlace al dashboard)](https://sites.google.com/view/portfolio-hector-cid/proyectos/contoso-store)
 
 <h3 style="text-align: justify;"> 
 1. Este dashboard en Power BI permite visualizar y comparar los ingresos de la tienda "Contoso" que vende productos tecnológicos (celulares, computadoras, cámaras, audio, entre otros) en diferentes continentes. Se presenta un análisis de ingresos anuales de 2007 a 2009, destacando tendencias y variaciones. Además, incluye dos secciones adicionales:
@@ -237,5 +238,10 @@ El análisis permitió identificar a los operadores con menor desempeño y estab
 </p>
 
 ### Si quieres conocer más sobre mi trabajo en análisis de datos te invito a visitar mi portafolio completo en [GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master)
+
+<br>
+
+### Si quieres conocer más sobre mi trabajo con [Power BI](https://sites.google.com/view/portfolio-hector-cid/home) te invito a revisar mi portafolio. 
+
 
 
