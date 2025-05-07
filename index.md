@@ -239,8 +239,6 @@ El análisis permitió identificar a los operadores con menor desempeño y estab
 
 ### Si quieres conocer más sobre mi trabajo en análisis de datos te invito a visitar mi portafolio completo en [GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master)
 
-<br>
-
 ### Si quieres conocer más sobre mi trabajo con [Power BI](https://sites.google.com/view/portfolio-hector-cid/home) te invito a revisar mi portafolio. 
 
 
